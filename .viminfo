@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1642200383,,"wq!"
 :wq
-|2,0,1641716482,,"wq"
+|2,0,1642201755,,"wq"
+:wq!
+|2,0,1642201506,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,51 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	!
+|3,1,36,0,1,0,1642201497,"!"
 
 # File marks:
-'0  8  0  ~/rajagitsample
-|4,48,8,0,1642200383,"~/rajagitsample"
-'1  6  0  /home/ubuntu/git/sample
-|4,49,6,0,1641716482,"/home/ubuntu/git/sample"
-'2  6  0  /home/ubuntu/git/sample
-|4,50,6,0,1641715620,"/home/ubuntu/git/sample"
-'3  6  0  /home/ubuntu/git/sample
-|4,51,6,0,1641715213,"/home/ubuntu/git/sample"
+'0  17  0  ~/.git/COMMIT_EDITMSG
+|4,48,17,0,1642201755,"~/.git/COMMIT_EDITMSG"
+'1  5  12  ~/rajagitsample
+|4,49,5,12,1642201506,"~/rajagitsample"
+'2  6  0  ~/rajagitsample
+|4,50,6,0,1642200383,"~/rajagitsample"
+'3  8  0  ~/rajagitsample
+|4,51,8,0,1642200383,"~/rajagitsample"
 '4  6  0  /home/ubuntu/git/sample
-|4,52,6,0,1641715213,"/home/ubuntu/git/sample"
+|4,52,6,0,1641716482,"/home/ubuntu/git/sample"
+'5  6  0  /home/ubuntu/git/sample
+|4,53,6,0,1641715620,"/home/ubuntu/git/sample"
+'6  6  0  /home/ubuntu/git/sample
+|4,54,6,0,1641715213,"/home/ubuntu/git/sample"
+'7  6  0  /home/ubuntu/git/sample
+|4,55,6,0,1641715213,"/home/ubuntu/git/sample"
 
 # Jumplist (newest first):
+-'  17  0  ~/.git/COMMIT_EDITMSG
+|4,39,17,0,1642201755,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1642201650,"~/.git/COMMIT_EDITMSG"
+-'  5  12  ~/rajagitsample
+|4,39,5,12,1642201506,"~/rajagitsample"
+-'  5  12  ~/rajagitsample
+|4,39,5,12,1642201506,"~/rajagitsample"
+-'  6  0  ~/rajagitsample
+|4,39,6,0,1642201461,"~/rajagitsample"
+-'  6  0  ~/rajagitsample
+|4,39,6,0,1642201461,"~/rajagitsample"
 -'  8  0  ~/rajagitsample
 |4,39,8,0,1642200383,"~/rajagitsample"
+-'  8  0  ~/rajagitsample
+|4,39,8,0,1642200383,"~/rajagitsample"
+-'  1  0  ~/rajagitsample
+|4,39,1,0,1642200358,"~/rajagitsample"
+-'  1  0  ~/rajagitsample
+|4,39,1,0,1642200358,"~/rajagitsample"
+-'  1  0  ~/rajagitsample
+|4,39,1,0,1642200358,"~/rajagitsample"
 -'  1  0  ~/rajagitsample
 |4,39,1,0,1642200358,"~/rajagitsample"
 -'  6  0  /home/ubuntu/git/sample
@@ -48,6 +77,30 @@
 -'  6  0  /home/ubuntu/git/sample
 |4,39,6,0,1641716482,"/home/ubuntu/git/sample"
 -'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641716482,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641716482,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641716482,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641716482,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641716482,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641716482,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715620,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715620,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715620,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715620,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715620,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715620,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
 |4,39,6,0,1641715620,"/home/ubuntu/git/sample"
 -'  6  0  /home/ubuntu/git/sample
 |4,39,6,0,1641715620,"/home/ubuntu/git/sample"
@@ -55,6 +108,54 @@
 |4,39,6,0,1641715213,"/home/ubuntu/git/sample"
 -'  6  0  /home/ubuntu/git/sample
 |4,39,6,0,1641715213,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715213,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715213,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715213,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715213,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715213,"/home/ubuntu/git/sample"
+-'  6  0  /home/ubuntu/git/sample
+|4,39,6,0,1641715213,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
+-'  1  0  /home/ubuntu/git/sample
+|4,39,1,0,1641715126,"/home/ubuntu/git/sample"
 -'  1  0  /home/ubuntu/git/sample
 |4,39,1,0,1641715126,"/home/ubuntu/git/sample"
 -'  1  0  /home/ubuntu/git/sample
@@ -70,12 +171,21 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/.git/COMMIT_EDITMSG
+	*	1642201753	0
+	"	17	0
+	^	17	0
+	.	17	0
+	+	17	0
+
 > ~/rajagitsample
-	*	1642200378	0
-	"	8	0
-	^	8	0
-	.	7	0
+	*	1642201500	0
+	"	5	12
+	^	5	13
+	.	5	12
+	+	6	0
 	+	7	0
+	+	5	12
 
 > /home/ubuntu/git/sample
 	*	1641716479	0
